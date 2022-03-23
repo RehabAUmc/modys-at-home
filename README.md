@@ -18,7 +18,7 @@ This project contains:
 	- function_prepare_DL_data.m
 
 Downloading data
- - Download the zip file via (zenodo link)
+ - Download the zip file via https://zenodo.org/record/6379451#.Yjs1uHrMK5c
  - Unzip the zip file
  - Each folder should have a file 'load_preprocessed_data_PatientXXX' in the correspinding folder data/PatientXXX containing the preprocessed data
 
